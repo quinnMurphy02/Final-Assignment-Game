@@ -10,6 +10,7 @@ import javax.swing.JFrame;
 // S = DOWN
 // A = LEFT
 // D = RIGHT
+// ENTER = USE SWORD / TALK TO NPC
 // TO TALK TO NPC, PRESS ENTER WHILE FACING THEM
 // SOUND CREDITS IN "SOUND" CLASS.
 
@@ -29,7 +30,9 @@ import javax.swing.JFrame;
 // get this far. It is not completely finished yet, but is more of 
 // a work in progress. But I think it meets the criteria of 
 // something we have put a lot of time into for the assignment
-// requirements. 
+// requirements. As you can see at this point there are NPCs,
+// enemys, and you can also use your sword with enter to 
+// defeat the red enemies.
 
 public class Main {
 	

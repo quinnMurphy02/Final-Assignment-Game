@@ -20,7 +20,7 @@ public class OBJ_Door extends Entity{
 
 		
 		name = "Door";
-		down1 = setup("/objects/door");
+		down1 = setup("/objects/door", gp.tileSize, gp.tileSize);
 		
 		collision = true;
 		

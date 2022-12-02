@@ -19,7 +19,7 @@ public OBJ_Chest(GamePanel gp) {
 	
 		super(gp);
 		name = "Chest";
-		down1 = setup("/objects/treasureChest");
+		down1 = setup("/objects/treasureChest", gp.tileSize, gp.tileSize);
 		
 	}
 

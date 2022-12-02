@@ -68,6 +68,22 @@ public class AssetSetter {
 		gp.monster[1] = new MON_RedGuy(gp);
 		gp.monster[1].worldX = gp.tileSize*21;
 		gp.monster[1].worldY = gp.tileSize*15;
+		
+		gp.monster[2] = new MON_RedGuy(gp);
+		gp.monster[2].worldX = gp.tileSize*5;
+		gp.monster[2].worldY = gp.tileSize*30;
+		
+		gp.monster[3] = new MON_RedGuy(gp);
+		gp.monster[3].worldX = gp.tileSize*5;
+		gp.monster[3].worldY = gp.tileSize*32;
+		
+		gp.monster[4] = new MON_RedGuy(gp);
+		gp.monster[4].worldX = gp.tileSize*5;
+		gp.monster[4].worldY = gp.tileSize*34;
+		
+		gp.monster[5] = new MON_RedGuy(gp);
+		gp.monster[5].worldX = gp.tileSize*5;
+		gp.monster[5].worldY = gp.tileSize*33;
 	}
 	
 	
