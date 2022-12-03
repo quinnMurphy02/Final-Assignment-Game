@@ -51,7 +51,7 @@ public class TileManager {
 		setup(12, "lava_ground_up", true);
 		setup(13, "sand", false);
 		setup(14, "newTree", true);
-		setup(15, "wall", true);
+		setup(15, "bricks", true);
 		setup(16, "water00", true);
 	
 		
